@@ -1,0 +1,9 @@
+input,
+button {
+	width: 200px;
+	margin: 10px;
+}
+
+.result {
+	margin: 10px;
+}

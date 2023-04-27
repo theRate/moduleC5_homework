@@ -1,0 +1,19 @@
+input {
+	width: 180px;
+  margin: 10px;
+}
+
+.result {
+  margin: 10px;
+}
+
+.card {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.card img {
+  display: block;
+  width: 200px;
+  height: 150px;
+}
